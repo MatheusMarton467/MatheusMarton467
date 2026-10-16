@@ -1,7 +1,20 @@
 <div align="center">
 
 <img src="header.svg" alt="Matheus Marton — Engenheiro de Software · Java · Front-End · UX" width="100%"/>
+
+</div>
+
 <br><br>
+
+Oi, eu sou o Matheus! 👋
+
+Sou **Engenheiro de Software** e gosto de entender como as coisas funcionam por dentro: do banco de dados à tela que a pessoa vê. Curto o lado lógico do back-end tanto quanto o lado criativo do front-end e do UX, porque acho que software bom precisa dos dois.
+
+Sou movido a anime, games e rock, e isso aparece em tudo que eu faço, inclusive neste perfil. Acredito que dá para ser técnico e ter personalidade ao mesmo tempo.
+<br><br>
+
+<div align="center">
+  
 <a href="https://matheusmarton467.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=FF2E88&center=true&vCenter=true&width=720&height=40&lines=Engenheiro+de+Software;Java+%2B+Spring+Boot+%2B+SQL;Estudando+Front-End+%26+UX;Anime+%7C+Games+%7C+Rock" alt="Frases animadas" />
 </a>
@@ -19,12 +32,6 @@
 <img src="divider.svg" width="100%" alt=""/>
 
 </div>
-
-## 🎮 Sobre o player
-
-Engenheiro de Software formado pela UNIGRAN, com quase 5 anos de TI corporativa: investigando incidentes com **SQL e logs**, mantendo sistemas críticos de pé e, agora, construindo os meus próprios.
-
-Estou em **dupla classe**: **Java no back-end** e **Front-End/UX** no visual. Bom produto precisa de lógica sólida *e* de interface que dá vontade de usar. Ver o primeiro virar o segundo é o que mais me anima.
 
 ## 🧰 Loadout
 
